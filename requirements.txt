@@ -2,6 +2,7 @@ asgiref==3.2.10
 chainmap==1.0.3
 combomethod==1.0.12
 Django==3.1.1
+gunicorn==20.0.4
 nulltype==2.3.1
 options==1.4.10
 pytz==2020.1
